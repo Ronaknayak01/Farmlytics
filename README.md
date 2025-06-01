@@ -2,7 +2,8 @@
 
 # Farmlytics
 
-![Farmlytics Logo](https://user-images.githubusercontent.com/83681204/159978827-fccf752e-2d36-4dc3-a15a-ce3a57e90165.png)
+![image](https://github.com/user-attachments/assets/e622d709-441f-4aef-8306-165fd868444f)
+
 
 ---
 
@@ -39,7 +40,8 @@ With just an uploaded image of your crop, AgriGo’s AI-powered image recognitio
 
 ![Disease Detection](https://user-images.githubusercontent.com/83681204/159994252-6e44cd8e-4d20-4dcb-9e22-c0e35756fe1c.png) 
 
-![Crop Recommendation](https://user-images.githubusercontent.com/83681204/159994452-d6a14dc9-d94f-4beb-8778-6ecdfe48f453.png)
+![image](https://github.com/user-attachments/assets/8c7be1e2-71c2-4d0f-a9a5-8896ffe9fb02)
+
 
 ---
 
@@ -111,7 +113,7 @@ The datasets used for this project are sourced from Kaggle:
 
 ## Contact
 
-For questions or support, please contact me: [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com)
+For questions or support, please contact me: [nayakronak72@gmail.com](mailto:nayakronak72@gmail.com)
 
 ---
 
